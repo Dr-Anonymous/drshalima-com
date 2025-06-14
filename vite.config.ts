@@ -19,4 +19,6 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  // IMPORTANT: Set the base path for GitHub Pages
+  base: "/drshalima-site/", // <-- Replace with your repo name if different!
 }));
