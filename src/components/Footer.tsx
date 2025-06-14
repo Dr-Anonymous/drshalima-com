@@ -60,18 +60,19 @@ export const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-blue-400" />
-                <span className="text-gray-300">040-40260332, 9959111506</span>
+                <span className="text-gray-300">9177 43 44 55</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-blue-400" />
-                <span className="text-gray-300">shalimapinnamaneni@gmail.com</span>
+                <span className="text-gray-300">info@drshalima.com</span>
               </div>
               <div className="flex items-start space-x-3">
                 <MapPin className="h-5 w-5 text-blue-400 mt-1" />
                 <span className="text-gray-300">
-                  Near Aparna Towers, 6-3-347/22/3,<br />
-                  Dwarakapuri Colony, Punjagutta,<br />
-                  Hyderabad - 500082
+                  OrthoLife,<br />
+                  Road No. 3,<br />
+                  R.R.Nagar,<br />
+                  Kakinada.
                 </span>
               </div>
             </div>
@@ -87,3 +88,4 @@ export const Footer = () => {
     </footer>
   );
 };
+
