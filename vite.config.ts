@@ -20,5 +20,5 @@ export default defineConfig(({ mode }) => ({
     },
   },
   // IMPORTANT: Set the base path for GitHub Pages
-  base: "/drshalima-site/", // <-- Replace with your repo name if different!
+  base: "/drshalima-com/", // <-- Replace with your repo name if different!
 }));
