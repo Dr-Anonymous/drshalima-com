@@ -27,7 +27,7 @@ export const Contact = () => {
                   <Phone className="h-6 w-6 text-blue-600 mt-1" />
                   <div>
                     <p className="font-medium text-gray-900">Phone</p>
-                    <p className="text-gray-600">(555) 123-4567</p>
+                    <p className="text-gray-600">040-40260332, 9959111506</p>
                   </div>
                 </div>
                 
@@ -35,7 +35,7 @@ export const Contact = () => {
                   <Mail className="h-6 w-6 text-blue-600 mt-1" />
                   <div>
                     <p className="font-medium text-gray-900">Email</p>
-                    <p className="text-gray-600">info@drpinnamaneni.com</p>
+                    <p className="text-gray-600">shalimapinnamaneni@gmail.com</p>
                   </div>
                 </div>
                 
@@ -44,9 +44,9 @@ export const Contact = () => {
                   <div>
                     <p className="font-medium text-gray-900">Address</p>
                     <p className="text-gray-600">
-                      123 Medical Center Drive<br />
-                      Suite 200<br />
-                      Your City, State 12345
+                      Near Aparna Towers,<br />
+                      6-3-347/22/3, Dwarakapuri Colony,<br />
+                      Punjagutta, Hyderabad - 500082
                     </p>
                   </div>
                 </div>

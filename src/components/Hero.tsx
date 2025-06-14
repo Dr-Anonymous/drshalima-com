@@ -1,4 +1,3 @@
-
 import { Phone, Mail, MapPin } from "lucide-react";
 
 export const Hero = () => {
@@ -40,15 +39,17 @@ export const Hero = () => {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-8">
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-blue-600" />
-                <span className="text-gray-700">(555) 123-4567</span>
+                <span className="text-gray-700">040-40260332, 9959111506</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-blue-600" />
-                <span className="text-gray-700">info@drpinnamaneni.com</span>
+                <span className="text-gray-700">shalimapinnamaneni@gmail.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="h-5 w-5 text-blue-600" />
-                <span className="text-gray-700">Medical Center</span>
+                <span className="text-gray-700">
+                  Near Aparna Towers, 6-3-347/22/3, Dwarakapuri Colony, Punjagutta, Hyderabad - 500082
+                </span>
               </div>
             </div>
           </div>
